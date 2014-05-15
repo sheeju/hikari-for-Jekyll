@@ -4,7 +4,7 @@ description: "Fluid, responsive blog theme for Jekyll"
 author: "Sheeju Alex"
 
 url: "http://sheeju.github.io"
-baseurl: ""
+baseurl: "/hikari-for-Jekyll/"
 
 markdown: rdiscount
 permalink: :year/:month/:title.html
